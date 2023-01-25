@@ -16,7 +16,7 @@
         "doctrine/dbal": "^3.1",
         "doctrine/doctrine-bundle": "^2.7",
         "doctrine/doctrine-migrations-bundle": "^3.0",
-        "doctrine/orm": "^2.10",
+        "doctrine/orm": "^2.14",
         "league/commonmark": "^2.1",
         "symfony/apache-pack": "^1.0",
         "symfony/asset": "^6.2",
